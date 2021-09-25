@@ -28,7 +28,7 @@ git clone https://github.com/francajr/gitexplorer.git<br>
 cd gitexplorer
 
 :arrow_forward: Install dependencies<br>
-yarn install
+yarn
 
 :fire: Run the application<br>
 yarn dev
