@@ -1,6 +1,6 @@
 # :heavy_check_mark: gitexplorer
 :tada: Project done on the trail ReactJs on RockeSeat's Ignite course, using the Rocketseat's repository
-.
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/11893798/134775644-d97511eb-e58c-4653-b506-c809ae52888a.png" width="800px" />
 </div>
